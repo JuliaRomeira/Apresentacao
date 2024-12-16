@@ -39,8 +39,8 @@ body * {
 }
 
 #container {
-  height: 712px;
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*colocar ao meio do site*/
   margin: 56px auto 0px;
   padding: 0 24px;
